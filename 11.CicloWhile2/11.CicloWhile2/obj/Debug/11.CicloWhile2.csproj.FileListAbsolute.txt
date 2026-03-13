@@ -1,0 +1,7 @@
+C:\FerneyChica\FundamentosProgramacionM\11.CicloWhile2\11.CicloWhile2\bin\Debug\11.CicloWhile2.exe.config
+C:\FerneyChica\FundamentosProgramacionM\11.CicloWhile2\11.CicloWhile2\bin\Debug\11.CicloWhile2.exe
+C:\FerneyChica\FundamentosProgramacionM\11.CicloWhile2\11.CicloWhile2\bin\Debug\11.CicloWhile2.pdb
+C:\FerneyChica\FundamentosProgramacionM\11.CicloWhile2\11.CicloWhile2\obj\Debug\11.CicloWhile2.csproj.AssemblyReference.cache
+C:\FerneyChica\FundamentosProgramacionM\11.CicloWhile2\11.CicloWhile2\obj\Debug\11.CicloWhile2.csproj.CoreCompileInputs.cache
+C:\FerneyChica\FundamentosProgramacionM\11.CicloWhile2\11.CicloWhile2\obj\Debug\11.CicloWhile2.exe
+C:\FerneyChica\FundamentosProgramacionM\11.CicloWhile2\11.CicloWhile2\obj\Debug\11.CicloWhile2.pdb
